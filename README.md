@@ -5,6 +5,8 @@ This is simple tic-tac-toe game made in Reactjs.
 
 ![simple calculator](https://github.com/subhash00/tic-tac-toe/blob/master/tictac.gif)
 ------
+# Website
+Check the website [here](https://subhash00.github.io/tic-tac-toe/)
 # Installation
 Install the dependencies
 ```sh
