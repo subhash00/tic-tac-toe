@@ -1,3 +1,26 @@
+# Tic-Tac-Toe
+This is simple tic-tac-toe game made in Reactjs.
+
+# Preview
+
+![simple calculator](https://github.com/subhash00/tic-tac-toe/blob/master/tictac.gif)
+------
+# Installation
+Install the dependencies
+```sh
+$ npm install
+```
+Start server
+```sh
+$ npm start
+```
+License
+----
+MIT
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/subhash00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@codingGuru5) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/coding-Guru) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCecHrGQQKOtWK9uOlxyUlWA)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
