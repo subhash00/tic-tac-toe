@@ -1,0 +1,15 @@
+.mainDisplay {
+    box-sizing: border-box;
+    width: 450px;
+    font-size: 50px;
+    font-weight: 500;
+    color: rgba(15, 47, 255, 1);
+    height: 100px;
+    background: rgba(142, 101, 216, 0.2);
+    margin: auto;
+    border-radius:35%;
+    text-align: center;
+}
+p {
+    margin:3px;
+}

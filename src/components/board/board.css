@@ -1,0 +1,10 @@
+.mainBoard {
+    box-sizing: border-box;
+    width: 450px;
+    height: 450px;
+    background-color: #ffffff;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: auto;
+    background: rgba(15, 47, 255, 0.1);
+}
